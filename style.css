@@ -1,0 +1,68 @@
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: bisque;
+
+
+}
+.container{
+  border-top: 10px ridge #cbcbcb ;
+  border-left: 10px ridge #cbcbcb;
+  border-right: 10px solid white;
+  border-bottom: 10px ridge white;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #cbcbcb;
+
+}
+.a{
+  height: 46px;
+  width: 46px;
+  border:2px dotted;
+  border-top: transparent;
+}
+.b{
+  height: 46px;
+  width: 46px;
+  border:2px dotted;
+}
+.c{
+  height: 46px;
+  width: 46px;
+  border:2px dotted;
+}
+.d{
+  height: 46px;
+  width: 46px;
+  border:2px dotted;
+}
+.e{
+  height: 46px;
+  width: 46px;
+  border:2px dotted;
+}
+.f{
+  height: 46px;
+  width: 46px;
+  border:2px dotted;
+}
+.g{
+  height: 46px;
+  width: 46px;
+  border:2px dotted;
+}
+.h{
+  height: 46px;
+  width: 46px;
+  border:2px dotted;
+}
+.uncheck{
+  border: 2px outset white;
+}
+.a1, .b1, .c1, .d1, .e1, .f1, .g1, .h1{
+  border-left: transparent;
+}
